@@ -10,7 +10,7 @@ int main(void)
 	int b = 0;
 	int c = 0;
 	int coma = 1;
-	
+
 	while (a <= 9)
 	{
 		while (b <= 9)
